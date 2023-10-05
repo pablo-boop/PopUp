@@ -8,6 +8,7 @@ export default function Home() {
     <Link href={'/counter'}> Contador</Link>
     <Link href={'/inputs'}> Inputs</Link>
     <Link href={'/popUps'}> Pop Ups</Link>
+    <Link href={'/finances'}>Finances</Link>
     </>
   )
 }

@@ -1,0 +1,11 @@
+.registros {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1rem;
+    width: 100%;
+    margin: 0 auto;
+    height: 100%;
+    overflow-y: auto;
+    /* Adicionei scroll para o conteúdo */
+}
